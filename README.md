@@ -1,4 +1,10 @@
-## Ola Mundo! Eu sou o Samuel 😄
+## Ola Mundo! Eu sou o Samuel. 😄
+
+- 💻 Atualmente cursando Ciências da Computação.
+- 💎 no momento estudando dart e flutter.
+- 🧑🏽‍💻 Focando em back-end.
+
+## Minhas linguagens e habilidades. 🦾
 
 <div>
 <img alt="my stats" align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Samuelptdd&show_icons=true&theme=dark"/>
@@ -22,7 +28,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 </div>
 
-##
+## Me encontre aqui! 🚀
+
 
 <div> 
   <a href="https://discord.gg/samuelpr" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
